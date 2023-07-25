@@ -1,0 +1,2 @@
+# Pedra-qr-code
+pedra
